@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { SectionStyled } from "./SectionStyled";
+import { SectionStyled } from "./Section.styled";
 
 export default function Section({ title, children }) {
   return (

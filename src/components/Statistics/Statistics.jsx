@@ -1,9 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import {
-  StatisticsStyled,
-  StatisticsItemStyled,
-} from "../Statistics/StatisticsStyled";
+import { StatisticsStyled, StatisticsItemStyled } from "./Statistics.styled";
 
 export default function Statistics({
   good,

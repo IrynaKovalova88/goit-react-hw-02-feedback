@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { FeedbackListStyled, ButtonStyled } from "./FeedbackOptionsStyled";
+import { FeedbackListStyled, ButtonStyled } from "./FeedbackOptions.styled";
 
 export default function FeedbackOptions({ onHandleClick }) {
   return (
